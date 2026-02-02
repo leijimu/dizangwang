@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "title": "地藏道场",
+    "home": "首页",
+    "scriptures": "经典",
+    "three_sutras": "地藏三经",
+    "prayer": "祈福",
+    "offering": "供养",
+    "donate": "捐赠"
+  },
+  "hero": {
+    "namo": "南无大愿地藏王菩萨",
+    "vow_1": "地狱不空",
+    "vow_2": "誓不成佛",
+    "desc_1": "众生度尽，方证菩提",
+    "desc_2": "安忍不动犹如大地，静虑深密犹如秘藏",
+    "btn_prayer": "立即祈福",
+    "btn_scriptures": "诵读经典"
+  },
+  "scriptures": {
+    "title": "经典诵读",
+    "poem_title": "赞地藏菩萨偈",
+    "poem_content": [
+      "稽首本然净心地，无尽佛藏大慈尊；",
+      "南方世界涌香云，香雨花云及花雨；",
+      "宝雨宝云无数种，为祥为瑞遍庄严。",
+      "天人问佛是何因，佛言地藏菩萨至；",
+      "三世如来同赞叹，十方菩萨共归依；",
+      "我今宿植善因缘，称扬地藏真功德。"
+    ],
+    "mantra_title": "地藏菩萨灭定业真言",
+    "mantra_text": "嗡，钵啰末邻陀宁，娑婆诃",
+    "mantra_desc": "此咒是地藏王菩萨所说，诚心诵读此咒可以消灭一定要报应的罪业。在《地藏菩萨本愿经》诵读本的开头（或结尾），一般都有此真言。"
+  },
+  "reader": {
+    "section_title": "地藏三经 · 在线阅读",
+    "section_desc": "深入经藏，智慧如海。地藏法门三部重要经典，指引众生离苦得乐。",
+    "sutra_1": "地藏菩萨本愿经",
+    "sutra_1_desc": "佛门孝经，详述地藏菩萨弘愿与地狱救度之事。",
+    "sutra_2": "地藏十轮经",
+    "sutra_2_desc": "阐述十轮法门，消除业障，增长福慧。",
+    "sutra_3": "占察善恶业报经",
+    "sutra_3_desc": "占察善恶，忏悔业障，求受戒体之殊胜法门。",
+    "read_btn": "阅读经文",
+    "play_audio": "诵读音频",
+    "stop_audio": "停止诵读"
+  },
+  "prayer_wall": {
+    "title": "万盏心灯 · 祈福墙",
+    "subtitle": "点亮一盏心灯，许下一个善愿，照亮自性，温暖世间。",
+    "btn_add": "我要祈福",
+    "dialog_title": "供养祈福",
+    "label_type": "供养方式",
+    "label_name": "您的法名/称呼",
+    "placeholder_name": "善信 (可留空)",
+    "label_content": "祈愿内容",
+    "placeholder_content": "愿以此功德...",
+    "btn_submit": "提交祈愿",
+    "toast_success": "祈福成功，功德无量",
+    "types": {
+      "lamp": "供灯 (象征智慧)",
+      "incense": "供香 (象征清净)",
+      "flower": "供花 (象征庄严)"
+    }
+  },
+  "footer": {
+    "guide_title": "供养指南",
+    "guide_lamp_title": "供灯",
+    "guide_lamp_desc": "灯代表智慧。点灯供佛，祈愿开启智慧，破除无明。",
+    "guide_flower_title": "供花",
+    "guide_flower_desc": "花代表因。种善因，得善果。祈愿相貌庄严，心性柔和。",
+    "guide_incense_title": "供香",
+    "guide_incense_desc": "香代表戒律。清净身心，祈愿业障消除，福慧增长。",
+    "donate_btn": "随喜捐赠",
+    "copyright": "© {{year}} 地藏王菩萨祈福网 | 愿以此功德，普及于一切"
+  }
+}

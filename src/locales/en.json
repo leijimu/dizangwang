@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "title": "Ksitigarbha Sanctuary",
+    "home": "Home",
+    "scriptures": "Scriptures",
+    "three_sutras": "Three Sutras",
+    "prayer": "Prayer",
+    "offering": "Offerings",
+    "donate": "Donate"
+  },
+  "hero": {
+    "namo": "Namo Ksitigarbha Bodhisattva",
+    "vow_1": "Hell is not empty",
+    "vow_2": "I vow not to become a Buddha",
+    "desc_1": "Only when all beings are saved, will I realize Bodhi",
+    "desc_2": "Immovable like the earth, deep and secret like a treasure store",
+    "btn_prayer": "Make a Prayer",
+    "btn_scriptures": "Read Scriptures"
+  },
+  "scriptures": {
+    "title": "Scripture Reading",
+    "poem_title": "Praise to Ksitigarbha Bodhisattva",
+    "poem_content": [
+      "I bow to the inherent pure mind ground,",
+      "The endless Buddha store, the Great Compassionate Honored One;",
+      "From the southern world, fragrant clouds rise,",
+      "Rain of fragrance, rain of flowers, and clouds of flowers;",
+      "Jewel rains and jewel clouds of countless kinds,",
+      "Auspicious and wondrous, adorning everywhere.",
+      "Devas and humans ask the Buddha the cause,",
+      "The Buddha says Ksitigarbha Bodhisattva has arrived;",
+      "The Tathagatas of the three times all praise him,",
+      "Bodhisattvas of the ten directions all take refuge;",
+      "I now plant good roots from past causes,",
+      "And praise the true merit of Ksitigarbha."
+    ],
+    "mantra_title": "Mantra for Eliminating Fixed Karma",
+    "mantra_text": "Om Pramardane Svaha",
+    "mantra_desc": "This mantra is spoken by Ksitigarbha Bodhisattva. Reciting it sincerely can eliminate fixed karma that must otherwise be retributed. It is often found at the beginning (or end) of the 'Sutra of the Past Vows of Ksitigarbha Bodhisattva'."
+  },
+  "reader": {
+    "section_title": "The Three Ksitigarbha Sutras",
+    "section_desc": "Deeply enter the Sutra Treasury and have wisdom like the sea. The three major scriptures of the Ksitigarbha Dharma door.",
+    "sutra_1": "Ksitigarbha Sutra",
+    "sutra_1_desc": "The Buddhist Sutra of Filial Piety, detailing Ksitigarbha's great vows and salvation of hell beings.",
+    "sutra_2": "Ten Wheels Sutra",
+    "sutra_2_desc": "Expounds the Ten Wheels Dharma door, eliminating karma and increasing blessings.",
+    "sutra_3": "Karma Vibhaga Sutra",
+    "sutra_3_desc": "Divination of good and evil karma, repentance, and seeking pure precepts.",
+    "read_btn": "Read Sutra",
+    "play_audio": "Play Audio",
+    "stop_audio": "Stop Audio"
+  },
+  "prayer_wall": {
+    "title": "Ten Thousand Heart Lamps · Prayer Wall",
+    "subtitle": "Light a heart lamp, make a good vow, illuminate your true nature, and warm the world.",
+    "btn_add": "I Want to Pray",
+    "dialog_title": "Make an Offering & Prayer",
+    "label_type": "Offering Type",
+    "label_name": "Your Dharma Name / Name",
+    "placeholder_name": "Devotee (Optional)",
+    "label_content": "Prayer Content",
+    "placeholder_content": "May this merit...",
+    "btn_submit": "Submit Prayer",
+    "toast_success": "Prayer submitted, boundless merit.",
+    "types": {
+      "lamp": "Light Lamp (Wisdom)",
+      "incense": "Offer Incense (Purity)",
+      "flower": "Offer Flowers (Dignity)"
+    }
+  },
+  "footer": {
+    "guide_title": "Offering Guide",
+    "guide_lamp_title": "Light Lamp",
+    "guide_lamp_desc": "Lamps represent wisdom. Offering lamps to the Buddha prays for opening wisdom and breaking ignorance.",
+    "guide_flower_title": "Offer Flowers",
+    "guide_flower_desc": "Flowers represent causes. Planting good causes leads to good results. Prays for dignified appearance and gentle nature.",
+    "guide_incense_title": "Offer Incense",
+    "guide_incense_desc": "Incense represents discipline. Purifying body and mind, praying for elimination of karmic obstacles and growth of blessings.",
+    "donate_btn": "Donate",
+    "copyright": "© {{year}} Ksitigarbha Prayer Network | May this merit spread to all."
+  }
+}
