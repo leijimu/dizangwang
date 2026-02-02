@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dizang-prayer.github.io/sitemap.xml
+Sitemap: https://dizangwang.xyz/sitemap.xml
